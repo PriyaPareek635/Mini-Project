@@ -17,4 +17,4 @@ To run this in your local server, you need to
 ## Caution :
 In place of secret.py, use your own twitter developer, token access. 
 ## Project Final Link
-https://priya-pareek.herokuapp.com/
+https://election-predictions.herokuapp.com/
