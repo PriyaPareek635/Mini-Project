@@ -1,4 +1,4 @@
-# Major-Project-2019
+# Mini-Project-2019
 This was our major project for 6th sem of B.Tech in CSE.
 # Project Title :
 Election Prediction using Twitter Sentiment Analysis.
